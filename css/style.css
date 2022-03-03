@@ -54,3 +54,15 @@ nav ul li a:link{
 nav ul li a:hover{
     border-bottom: 1px solid #535858;
 }
+
+#conteudo{
+    width: 710px;
+    float: left;
+    background-color: green;
+}
+
+aside{
+    width: 350px;
+    float: right;
+    background-color: #ebe7dd;
+}
